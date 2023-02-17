@@ -1,5 +1,7 @@
 import UserCard from "./UserCard";
+import Separator from "./Separator";
 
 export {
-  UserCard
+  UserCard,
+  Separator
 };
